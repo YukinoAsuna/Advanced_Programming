@@ -1,2 +1,2 @@
 # Advanced_Programming
-CNSCC212 Advanced_Programming to implement Turing Machine.
+CNSCC212 Advanced_Programming project to implement Turing Machine.
